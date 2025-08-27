@@ -13,6 +13,8 @@ Anderson localization is a fundamental quantum phenomenon in which disorder in a
 
 Understanding localization provides insights into why certain materials act as insulators despite classical predictions and has applications in ultracold atoms, photonic crystals, and other wave systems.
 
+![Anderson](anderson_localization.gif)
+
 ---
 
 ### Localization vs. Transition
