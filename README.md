@@ -1,5 +1,7 @@
 
-# Anderson Localization and the Anderson Transition: A Simplified Demonstration of Quantum Localization
+# Anderson Localization and the Anderson Transition
+
+## A Simplified Demonstration of Quantum Localization
 
 ---
 
