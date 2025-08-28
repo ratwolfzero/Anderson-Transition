@@ -69,6 +69,7 @@ In a perfect crystal, electrons or other quantum particles can spread ballistica
 Anderson demonstrated that in a disordered potential, interference can lead to **exponential decay** of the wave function from a central site:
 
 $$
+\Huge
 \psi(x) \propto e^{-|x - x_0| / \xi}
 $$
 
@@ -117,6 +118,7 @@ These experiments validate theoretical predictions and demonstrate the universal
 We use a **1D Anderson tight-binding model**:
 
 $$
+\Huge
 H = -t \sum_{\langle i,j \rangle} \left( c_i^\dagger c_j + c_j^\dagger c_i \right) + \sum_i \epsilon_i c_i^\dagger c_i
 $$
 
@@ -135,12 +137,14 @@ In site basis $|i\rangle$, the Hamiltonian is tridiagonal: off-diagonal elements
 #### Probability Density (PD)
 
 $$
+\Huge
 \text{PD}_i(t) = |\psi_i(t)|^2
 $$
 
 - Initial state: Gaussian wave packet:
 
 $$
+\Huge
 \psi_i(0) = \frac{1}{\sqrt{2\pi\sigma^2}} \exp\left( -\frac{(i - N/2)^2}{2\sigma^2} \right)
 $$
 
@@ -152,6 +156,7 @@ Note: The normalization factor $\frac{1}{\sqrt{2\pi\sigma^2}}$ is appropriate fo
 #### Participation Ratio (PR)
 
 $$
+\Huge
 PR(t) = \frac{1}{\sum_i \text{PD}_i^2}
 $$
 
@@ -169,6 +174,7 @@ PR evolution over time distinguishes between spreading (clean) and localized (di
 The simulation uses **QuTiP** to solve the time-dependent Schrödinger equation:
 
 $$
+\Huge
 i \hbar \frac{\partial \psi}{\partial t} = H \psi, \quad (\hbar = 1)
 $$
 
