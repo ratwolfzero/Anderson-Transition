@@ -240,7 +240,6 @@ These visualizations clearly demonstrate the **core physics of localization**.
 
 1. P. W. Anderson, *Absence of Diffusion in Certain Random Lattices*, Phys. Rev. 109, 1492 (1958)  
 2. E. Abrahams et al., *Scaling Theory of Localization: Absence of Quantum Diffusion in Two Dimensions*, Phys. Rev. Lett. 42, 673 (1979)  
-3. A. Lagendijk, B. van Tiggelen, D. S. Wiersma, *Fifty Years of Anderson Localization*, Physics Today 62, 24 (2009) 
-4. N. Lambert, E. Giguère, P. Menczel, B. Li, P. Hopf, G. Suárez, M. Gali, J. Lishman, R. Gadhvi, R. Agarwal, A. Galicia, N. Shammah, P. Nation, J. R. Johansson, S. Ahmed, S. Cross, A. Pitchford, F. Nori, QuTiP 5: The Quantum Toolbox in Python, arXiv:2412.04705 (2024). https://arxiv.org/abs/2412.04705
-QuTiP Documentation: https://qutip.org 
-5. QuTiP Documentation: [https://qutip.org](https://qutip.org)
+3. A. Lagendijk, B. van Tiggelen, D. S. Wiersma, *Fifty Years of Anderson Localization*, Physics Today 62, 24 (2009)
+4. N. Lambert, E. Giguère, P. Menczel, B. Li, P. Hopf, G. Suárez, M. Gali, J. Lishman, R. Gadhvi, R. Agarwal, A. Galicia, N. Shammah, P. Nation, J. R. Johansson, S. Ahmed, S. Cross, A. Pitchford, F. Nori, QuTiP 5: The Quantum Toolbox in Python, arXiv:2412.04705 (2024). <https://arxiv.org/abs/2412.04705>.  
+QuTiP Documentation: <https://qutip.org>
